@@ -23,9 +23,6 @@ em strong {
   padding: 20px;
 }
 
-.item {
-  font-style: italic;
-}
 
 ul {
   display: inline-block;
@@ -33,7 +30,9 @@ ul {
   width: 20%;
 margin-right: 15%;
 }
-
+.item{
+  font-style: italic;
+}
 .texto-centralizado {
   text-align: center;
 }
